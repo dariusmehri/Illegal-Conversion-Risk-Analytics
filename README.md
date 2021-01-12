@@ -24,3 +24,6 @@ b. Summary of regression results:
 - 12,986 of these buildings have had no illegal conversion complaints in the past three years  
 - Highest risk buildings:  
     - 1759 1-2 family, unregistered buildings unknown to the DOB (no previous illegal conversion complaints)
+ 
+ ### Spatial Analysis
+ Map of 1759 High Risk Buildings  
