@@ -27,7 +27,7 @@ b. Summary of regression results:
  
  ### Spatial Analysis
  Map of 1759 High Risk Buildings  
- Highest density of high risk buildings located in Queens and North Brooklyn  
+ Highest density of illegal conversions are located in Queens and Brooklyn  
  
  ![HIGH RISK BUILDINGS MAP](https://user-images.githubusercontent.com/11237613/104370860-78775180-54ed-11eb-81b9-54599f394e26.png)
 
