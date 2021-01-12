@@ -13,8 +13,8 @@ This is a project I managed with the Building Census project located in the offi
 ### Methods: Regression and Network Analysis
 a. Use regression analysis to determine what factors are correlated with illegal conversions  
 b. Summary of regression results:  
-  1-2 family unregistered buildings are more likely to be illegal conversions  
-  Bad Actor Factor: A building in the portfolio of an owner whose other buildings have received complaints is more likely to be an illegal conversion  
-c. Social Network Analysis: Use  a field that links buildings to bad actors, determine the buildings that do not have previous illegal conversion complaints that are in the "bad actor"  portfolio
+- 1-2 family unregistered buildings are more likely to be illegal conversions  
+- Bad Actor Factor: A building in the network of an owner whose other buildings have received complaints is more likely to be an illegal conversion  
+
 
 
