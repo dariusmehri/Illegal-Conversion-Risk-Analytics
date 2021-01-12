@@ -17,9 +17,7 @@ b. Summary of regression results:
 - Bad Actor Factor: A building in the network of an owner whose other buildings have received complaints is more likely to be an illegal conversion  
 
 ### Risk Analytics
-
-- 10,717 unique owners own five buildings or more in the HPD universe  
-- 110 of these owners are “bad actors”:  
+- 110 of the owners were determined to be “bad actors”:  
     - Have a high percentage of violations and no access as final illegal conversion dispositions in their portfolio  
     - Own a high number of 1-2 family and non-registered buildings  
 - The 110 bad actors own 14,459 out of the 317,539  HPD buildings (4.6% of the HPD buildings)  
