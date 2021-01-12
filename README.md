@@ -16,5 +16,13 @@ b. Summary of regression results:
 - 1-2 family unregistered buildings are more likely to be illegal conversions  
 - Bad Actor Factor: A building in the network of an owner whose other buildings have received complaints is more likely to be an illegal conversion  
 
+### Risk Analytics
 
-
+- 10,717 unique owners own five buildings or more in the HPD universe  
+- 110 of these owners are “bad actors”:  
+    - Have a high percentage of violations and no access as final illegal conversion dispositions in their portfolio  
+    - Own a high number of 1-2 family and non-registered buildings  
+- The 110 bad actors own 14,459 out of the 317,539  HPD buildings (4.6% of the HPD buildings)  
+- 12,986 of these buildings have had no illegal conversion complaints in the past three years  
+- Highest risk buildings:  
+    - 1759 1-2 family, unregistered buildings unknown to the DOB (no previous illegal conversion complaints)
