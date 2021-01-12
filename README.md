@@ -11,7 +11,7 @@ This is a project I managed with the Building Census project located in the offi
 6. DOF building classifications  
 
 ### Methods: Regression and Network Analysis
-a. Use regression analysis to determine what factors are correlated with illegal conversions
+a. Use regression analysis to determine what factors are correlated with illegal conversions  
 b. Summary of regression results:  
   1-2 family unregistered buildings are more likely to be illegal conversions  
   Bad Actor Factor: A building in the portfolio of an owner whose other buildings have received complaints is more likely to be an illegal conversion  
